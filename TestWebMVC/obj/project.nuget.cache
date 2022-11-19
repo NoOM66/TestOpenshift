@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pkibcRAMfjJPgFCwTLpB15mjn95PYM1PHULORyc4RQenVsdJzsL8USZSD8CWw0BvQ269cpSlCUfOw04vskEdGA==",
+  "dgSpecHash": "TfAaGok4CuNNovh6nMhA1gxamLYbR5Ai/HIV/AFeh/7MaiGK/cpBA/T3XcKJoREYNev/t9YnNIdxg9dXUXlISA==",
   "success": true,
-  "projectFilePath": "/Users/sununsubyam/Projects/TestWebMVC/TestWebMVC/TestWebMVC.csproj",
+  "projectFilePath": "/Users/sununsubyam/Workspaces/GitHub/TestOpenshift/TestWebMVC/TestWebMVC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
